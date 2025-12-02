@@ -6,7 +6,8 @@
    <img align="center" alt="nodeJs" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)">
+ <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg">
 </div>
  
 <br>
