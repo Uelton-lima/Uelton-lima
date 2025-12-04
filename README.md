@@ -1,4 +1,4 @@
- Bem-vindo(a) ao meu perfil 😁
+ Bem-vindo(a) ao meu perfil 😁 <br>
 Sou um entusiasta de Tecnologia com foco atual em Cibersegurança e Pentest.
 Comecei estudando programação — JavaScript, Node.js, PHP e Java — e foi isso que despertou meu interesse pela área de segurança ofensiva.
 Atualmente sigo evoluindo nas minhas habilidades técnicas, praticando diariamente e construindo uma base sólida para atuar profissionalmente no setor.
