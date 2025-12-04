@@ -16,10 +16,8 @@ Atualmente sigo evoluindo nas minhas habilidades técnicas, praticando diariamen
 <br>
 📊 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Uelton-lima&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Uelton-lima&layout=compact&theme=tokyonight"/>
-</div>
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uelton-lima&theme=tokyonight)
+
 
 
 <br>
